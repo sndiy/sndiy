@@ -32,6 +32,12 @@ Solusinya? Bikin chatbot dengan karakter anime tsundere yang bakal "marah" kalau
 - AlarmManager + BroadcastReceiver untuk notifikasi harian yang persist setelah reboot
 
 `Kotlin` `Jetpack Compose` `MVVM` `Room` `Gemini AI`
+<p align="center">
+  <img src="assets/debtslayer1.png" width="45%" />
+  <img src="assets/debtslayer2.png" width="45%" />
+  <img src="assets/debtslayer3.png" width="45%" />
+  <img src="assets/debtslayer4.png" width="45%" />
+</p>
 
 ---
 
