@@ -43,12 +43,26 @@ Solusinya? Bikin chatbot dengan karakter anime tsundere yang bakal "marah" kalau
 ---
 
 ### 💬 [ChatFin](https://github.com/sndiy/ChatFin)
-> *Chatbot untuk laporan keuangan dengan karakter kustom*
+> *Aplikasi keuangan personal Android dengan AI chatbot karakter Sakurajima Mai*
 
-Eksperimen menggabungkan AI conversation dengan data keuangan personal.
-Tujuannya: membuat laporan keuangan terasa seperti ngobrol, bukan mengisi spreadsheet.
+Pencatatan keuangan yang biasanya terasa membosankan, diubah jadi pengalaman conversational.
+Cukup ketik "catat pemasukan gaji 5 juta" — Mai yang proses sisanya.
 
-`Kotlin` `Android` `AI Chatbot`
+**Fitur:**
+- Dashboard saldo, pemasukan & pengeluaran real-time
+- Analitik periode: Bulan Ini / Bulan Lalu / 3 Bulan / 6 Bulan
+- Riwayat transaksi dengan filter & search
+- Manajemen dompet & rekening
+- Chat dengan Mai untuk catat transaksi secara natural
+
+`Kotlin` `Jetpack Compose` `Room` `Gemini AI` `MVVM`
+
+<p align="center">
+  <img src="assets/chatfin-1.png" width="22%" />
+  <img src="assets/chatfin-2.png" width="22%" />
+  <img src="assets/chatfin-3.png" width="22%" />
+  <img src="assets/chatfin-4.png" width="22%" />
+</p>
 
 ---
 
