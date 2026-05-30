@@ -1,6 +1,6 @@
 # Halo, aku Sendy 👋
 
-Developer yang suka membangun hal-hal yang **bermanfaat nyata** — bukan sekadar latihan teknis.
+Developer yang suka membangun hal-hal yang **bermanfaat nyata** — bukan sekadar latihan.
 Mayoritas project ku lahir dari kebutuhan sendiri: butuh pengingat hutang yang engaging, butuh tracker sholat yang simpel, butuh enkripsi file yang bisa dipakai langsung.
 
 ---
